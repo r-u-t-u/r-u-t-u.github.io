@@ -1,0 +1,16 @@
+- title: Articles
+  href: index.html
+
+- title: About
+  href: about.html
+
+- title: Tags
+  href: list/posts.html
+
+- title: Side Projects
+  href: list/projects.html
+
+- title: Work
+  href: list/portfolio.html
+
+
